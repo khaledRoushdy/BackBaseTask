@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5468" started-at="2018-04-03T02:06:07Z" finished-at="2018-04-03T02:06:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5468" started-at="2018-04-03T02:06:07Z" finished-at="2018-04-03T02:06:12Z">
+      <class name="com.backbase.computerbase.tests.EditComputerTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.backbase.computerbase.tests.EditComputerTests@523884b2]" name="setup" is-config="true" duration-ms="4330" started-at="2018-04-03T04:06:07Z" finished-at="2018-04-03T04:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ShouldNotEditComputerWithoutName()[pri:0, instance:com.backbase.computerbase.tests.EditComputerTests@523884b2]" name="ShouldNotEditComputerWithoutName" duration-ms="921" started-at="2018-04-03T04:06:11Z" finished-at="2018-04-03T04:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldNotEditComputerWithoutName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.backbase.computerbase.tests.EditComputerTests@523884b2]" name="tearDown" is-config="true" duration-ms="196" started-at="2018-04-03T04:06:12Z" finished-at="2018-04-03T04:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.backbase.computerbase.tests.EditComputerTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
